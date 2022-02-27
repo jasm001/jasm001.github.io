@@ -1,0 +1,17 @@
+/* globalNav --------------------------------------*/
+/*#gn-hea a:after		,/*ホーム*/
+/*#gn-pro a:after		,/*製品情報*/
+/*#gn-sto a:after		,/*物語*/
+/*#gn-sys a:after		,/*システム*/
+/*#gn-cha a:after		,/*登場人物*/
+/*#gn-mov a:after		,/*動画*/
+/*#gn-pub a:after		,/*雑誌情報*/
+#gn-goo a:after		,/*関連商品*/
+/*#gn-spe a:after		,/*スペシャル*/
+
+#dummy {
+	content: url('images/common/icon_new.png');
+	position: absolute;
+	top: -31px;
+	left: 13px;
+}
